@@ -1,10 +1,15 @@
-# 更新日志
+# Changelog
+All notable changes to this project will be documented in this file.
 
-格式参考 [如何维护更新日志](https://keepachangelog.com/en/1.0.0/)，
-另外本项目遵循 [语义化版本](https://semver.org/spec/v2.0.0.html)。
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.0.0 - 07-11-2022
+## [Unreleased]
 
-### 新增
+## [1.1.0] - 2022-07-27
+### Added
+- F-Droid国内清华源
 
+## [1.0.0] - 2022-07-11
+### Added
 - 新建项目
