@@ -6,9 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 2022-11-15
+### Added
+- containerd 国内阿里源
+
 ## [1.1.0] - 2022-07-27
 ### Added
-- F-Droid国内清华源
+- F-Droid 国内清华源
 
 ## [1.0.0] - 2022-07-11
 ### Added
